@@ -1,0 +1,47 @@
+[33mcommit 7da77f022ad512380b8ad542ce5f66291223557a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: moonQ <mooongq@gmail.com>
+Date:   Wed Jun 3 16:26:56 2020 +0900
+
+    done all test
+
+[33mcommit 3dba05e50e7590562abfda923d96d5ac45f78bec[m
+Author: moonQ <mooongq@gmail.com>
+Date:   Tue Jun 2 15:00:21 2020 +0900
+
+    일단 저장
+
+[33mcommit 2d84fe1d6a96c0fc25059d66b373bbdbd781d2dc[m
+Author: moonQ <mooongq@gmail.com>
+Date:   Sat May 30 14:51:31 2020 +0900
+
+    일단 저장
+
+[33mcommit 34b3d9c698ef8057f1e7de2cfbf4244f21635890[m
+Author: moonQ <mooongq@gmail.com>
+Date:   Sat May 30 14:17:27 2020 +0900
+
+    일단 저장
+
+[33mcommit 37ac676e2d0543d5a4f5ec4437548aed3bc30d1a[m
+Author: moonQ <mooongq@gmail.com>
+Date:   Mon May 25 17:15:37 2020 +0900
+
+    pushed dulicated error test
+
+[33mcommit df083b0fe811e38fb6f389f5c4a913834bd86ce5[m
+Author: moonQ <mooongq@gmail.com>
+Date:   Mon May 25 13:59:11 2020 +0900
+
+    made a auth test(register). and it is work
+
+[33mcommit 2e52adf1b797cae05a93b2756a4b27fabc6d0205[m
+Author: moonQ <mooongq@gmail.com>
+Date:   Mon May 25 09:46:44 2020 +0900
+
+    defiend user-model,contollers,rotues
+
+[33mcommit 836e1ec7149c9f4f85320bec2b94eb5ca3e650d7[m
+Author: moonQ <mooongq@gmail.com>
+Date:   Sat May 23 14:32:23 2020 +0900
+
+    Initial Express setup

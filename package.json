@@ -1,0 +1,29 @@
+{
+  "name": "udemy",
+  "version": "1.0.0",
+  "description": "udemy_clone",
+  "main": "server.js",
+  "scripts": {
+    "start": "NODE_ENV=production node server",
+    "dev": "nodemon server",
+    "test": "mocha --timeout 100000"
+  },
+  "author": "moonq",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chai": "^4.2.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mocha": "^7.2.0",
+    "mongoose": "^5.9.15",
+    "morgan": "^1.10.0",
+    "slugify": "^1.4.0",
+    "supertest": "^4.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
